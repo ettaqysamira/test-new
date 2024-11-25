@@ -1,0 +1,18 @@
+/*le premier bro*/
+h3 + p{
+    color: blueviolet;
+}
+/*Tous bro*/
+
+h3 ~ p{
+    color: blue;
+}
+/*toutes child* to child*/
+section p strong{
+    color: brown;
+}
+/*toutes child direct*/
+
+section > p{
+    color:orange;
+}

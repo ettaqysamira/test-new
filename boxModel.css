@@ -1,0 +1,22 @@
+h1{
+    padding-top: 20px;
+
+    /*border(2 method)*/
+    border: solid pink 15px;
+    border-style: solid;
+    border-color: blueviolet;
+    border-width: 13px;
+    /*******************/
+    background-color: pink;
+    margin-right: 500px;
+    margin-left: 2em;
+}
+
+h2{
+    
+    border: solid 2px green;
+    padding: 50px 20px 30px 25px;  /*l'horaire*/
+    padding: 25px 50px;  /*top-buttom  left-right*/
+    
+
+}
